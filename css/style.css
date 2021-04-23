@@ -9454,4 +9454,11 @@ video {
     width: 100%;
     color: #fff;
 }
+
+.video-source {
+  z-index: 200;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
 /*# sourceMappingURL=style.css.map */

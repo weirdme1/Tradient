@@ -78,6 +78,9 @@ jQuery(window).on("load", function() {
     //     };
     // });
 
+    var vid = document.getElementById("bgvid");
+    vid.playbackRate = 0.3;
+
 
 
 })(jQuery);
